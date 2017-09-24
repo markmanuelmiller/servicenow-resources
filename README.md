@@ -22,6 +22,27 @@
 ### Web Services
 - [Sample REST HTTP Request](https://gist.github.com/bryanbarnard/1f2d9e819dfb5fad41a3)
 
+### JavaScript
+#### Online Courses
+- [codecademy](https://www.codecademy.com/learn/introduction-to-javascript): **codecademy** is a great resource for learning the basics of JavaScript
+- [Code School](https://www.codeschool.com/learn/javascript)
+- [The Odin Project](https://www.theodinproject.com/courses/javascript-and-jquery)
+- [freeCodeCamp](https://www.freecodecamp.org)
+
+
+#### Books
+- [Eloquent JavaScript](http://eloquentjavascript.net/) is one of my personal favorite JavaScript books
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JS Books](http://jsbooks.revolunet.com/)
+
+
+#### Other Resources
+- [50 Best JavaScript Resources](https://medium.com/coderbyte/50-resources-to-help-you-start-learning-javascript-in-2017-4c70b222a3b9)
+- [16 JavaScript Concepts You Must Know Well](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [JS for Cats](http://jsforcats.com/) is a great and funny introduction to JavaScript
+
 
 ## Websites
 - [serviceportal.io](https://serviceportal.io)

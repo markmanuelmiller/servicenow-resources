@@ -17,6 +17,7 @@
 - [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
 - [Service Portal Best Practices](https://github.com/platform-experience/serviceportal-best-practice)
 - [Widget Anatomy](https://www.youtube.com/watch?v=MllpUpcl6TI)
+- [Service Portal  Training](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_serviceportal_jakarta_service_portal?v=jakarta)
 
 
 ### Web Services

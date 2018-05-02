@@ -6,6 +6,16 @@
 1. [Misc](#misc)
 
 
+## JavaScript Features Not Supported In ServiceNow
+This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supported in the ServiceNow implementation of Mozilla Rhino. 
+
+**NOTE**: NO ES6 features are supported in ServiceNow!
+
+- `Array.forEach`
+- `=>` - arrow functions are not supported
+- 
+
+
 ## Development Resources
 - [ServiceNow Standards Framework](https://github.com/iamkalai/SNStandardsFramework) by [@iamkalai](https://github.com/iamkalai)
 - [Interface Design Patterns for Script Includes](https://codecreative.io/servicenow/interface-design-patterns-for-script-includes) by [@tltoulson](https://github.com/tltoulson)
@@ -49,6 +59,8 @@
 - [serviceportal.io](https://serviceportal.io)
 
 
+## Videos
+- [Getting Started with ServiceNow Development](https://www.youtube.com/playlist?list=PL3rNcyAiDYK0maVCCzBAGKGcILgBgiP7Z)
 
 
 

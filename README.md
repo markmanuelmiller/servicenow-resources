@@ -54,10 +54,23 @@ This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supporte
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [JS for Cats](http://jsforcats.com/) is a great and funny introduction to JavaScript
 
+#### Angular
+**NOTE:** As of Kingston, Service Portal uses Angular 1.5.1. Angular 1.6 & 2+ features are not supported. 
+##### Tutorials
+- PAID - Although it's not free, this is my #1 recommendation for learning Angular 1.x for ServiceNow: [udemy](https://www.udemy.com/learn-angularjs/)
+- [angularjs.org tutorial](https://docs.angularjs.org/tutorial)
+- [codecademy](https://www.codecademy.com/learn/learn-angularjs)
+- PAID - Tons of courses on Angular 1.x: [pluralsight](https://www.pluralsight.com/paths/angular-js)
+
+##### Articles
+- [scotch](https://scotch.io/tutorials/angularjs-1-x-fundamentals-part-1)
+
+##### Books
+- My #1 recommendation on books: [ng-book](https://www.ng-book.com/)
 
 ## Websites
-- [serviceportal.io](https://serviceportal.io)
 
+- [serviceportal.io](https://serviceportal.io)
 
 ## Videos
 - [Getting Started with ServiceNow Development](https://www.youtube.com/playlist?list=PL3rNcyAiDYK0maVCCzBAGKGcILgBgiP7Z)
@@ -69,28 +82,6 @@ This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supporte
 
 
 ### Service Portal Structure
-- Portal Record
-    - Theme [Reference]
-    - URL Suffix
-
-
-- Theme Record
-    - Header Widget Record [Reference]
-    - Footer Widget Record [Reference]
-    - CSS Variables
-    - CSS Includes [Reference]
-    - JavaScript Includes [Reference]
-
-- Page Records
-
-
-- Widget Records
-
-
-- Widget Instance Records
-
-
-
 #### Tables
 - Service Portal [`sp_portal`]
 - Theme [`sp_theme`]

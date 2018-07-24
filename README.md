@@ -24,10 +24,12 @@ This is a list of JavaScript features (ES5 & ES6 & beyond) that are not supporte
 - [Script evaluation of fields by data type](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/script/general-scripting/reference/r_ScriptingOfFieldTypes.html)
 
 ### Service Portal
+- [Scope in Service Portal](https://www.dylanlindgren.com/2017/10/28/service-portal-fundamentals-angularjs-scopes/)
 - [Unofficial Service Portal Docs](https://github.com/newrocketinc/service-portal-docs)
 - [Service Portal Best Practices](https://github.com/platform-experience/serviceportal-best-practice)
 - [Widget Anatomy](https://www.youtube.com/watch?v=MllpUpcl6TI)
 - [Service Portal  Training](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_serviceportal_jakarta_service_portal?v=jakarta)
+- [Advanced Widget Development](https://developer.servicenow.com/app.do#!/creatorcon/CCW1088/creatorcon_18_CCW1088_5_sharing_data_and_events)
 
 
 ### Web Services
